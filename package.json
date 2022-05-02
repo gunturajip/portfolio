@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Guntur Aji P menggunakan Tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunturajip/portfolio.git"
+  },
+  "keywords": [
+    "Portfolio"
+  ],
+  "author": "Guntur Aji P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunturajip/portfolio/issues"
+  },
+  "homepage": "https://github.com/gunturajip/portfolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
